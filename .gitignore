@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+
+# Expo & React Native
+.expo/
+.expo-shared/
+web-build/
+dist/
+build/
+android/app/build/
+ios/build/
+ios/Pods/
+
+# Cache files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+.cache/
+*.tmp
+*.swp
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Cursor AI / IDE
+*.code-workspace
+.cursor/
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Environment variables
+.env
+.env.*.local
+.env.local
+
+# System
+.idea/
+*.iml
+
+# TypeScript
+*.tsbuildinfo
